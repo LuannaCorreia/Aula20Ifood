@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.exe
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.deps.json
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.dll
+C:\Users\Senai132\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.pdb
+C:\Users\Senai132\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.dll
+C:\Users\Senai132\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.pdb
